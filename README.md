@@ -78,7 +78,7 @@ The following analytical questions were solved during the project:
 
 ### **6️⃣ Sort the entire dataset with respect to the number of Confirmed cases in ascending order**
 
-### **7️⃣ Sort the entire dataset with respect to the number of Recovered cases in descending order**
+### **7️⃣ Sort the entire dataset with respect to the number of Recovered cases in ascending order**
 
 ---
 
