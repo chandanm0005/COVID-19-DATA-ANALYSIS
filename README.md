@@ -88,12 +88,14 @@ You can include your plots and screenshots here.
 
 ### 📌 Region-wise Summary  
 ![Region Summary](https://github.com/chandanm0005/COVID-19-DATA-ANALYSIS/blob/main/Screenshot%202025-11-17%20183053.png?raw=true)
+---
 
 ### 📌 Confirmed Cases Sorted  
 ![Confirmed Sorted](https://github.com/chandanm0005/COVID-19-DATA-ANALYSIS/blob/main/Screenshot%202025-11-17%20183141.png?raw=true)
+---
 
 ### 📌 Recovered Cases Sorted  
-`![Recovered Sorted](images/recovered_sorted.png)`
+![Recovered Sorted](https://github.com/chandanm0005/COVID-19-DATA-ANALYSIS/blob/main/Screenshot%202025-11-17%20183311.png?raw=true)
 
 ---
 
@@ -108,7 +110,7 @@ You can include your plots and screenshots here.
 
 ---
 
-##📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates:
 - **Effective data cleaning**
