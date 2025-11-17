@@ -87,7 +87,7 @@ The following analytical questions were solved during the project:
 You can include your plots and screenshots here.
 
 ### 📌 Region-wise Summary  
-![Region Summary](images/region_summary.png)
+![Region Summary](https://github.com/chandanm0005/COVID-19-DATA-ANALYSIS/blob/main/Screenshot%202025-11-17%20183053.png?raw=true)
 
 ### 📌 Confirmed Cases Sorted  
 `![Confirmed Sorted](images/confirmed_sorted.png)`
